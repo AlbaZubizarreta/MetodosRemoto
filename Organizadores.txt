@@ -1,0 +1,3 @@
+Comida: Paco
+Bebidas: Lola
+Logística: Herminia
